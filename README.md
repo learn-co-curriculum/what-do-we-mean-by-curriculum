@@ -20,4 +20,4 @@ Sometimes at th end of a Topic or Track, there will be larger projects that stud
 - A test-driven project where students build a specific application 
 - An open assessment where students build an application within a specific category and have specific requirements that should be included.   Assessments are not test-driven. 
 
-<a href='https://learn.co/lessons/what-do-we-mean-by-curriculum' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/what-do-we-mean-by-curriculum' title='What Do We Mean By Curriculum?'>What Do We Mean By Curriculum?</a> on Learn.co and start learning to code for free.</p>
