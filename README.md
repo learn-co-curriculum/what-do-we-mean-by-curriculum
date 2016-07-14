@@ -16,8 +16,10 @@ A series of units can be combined to form a **Topic**.
 
 One or more connected Topics create a **Track**.
 
-Sometimes at th end of a Topic or Track, there will be larger projects that students will work on. They're usually applications and can take the following format:
+Sometimes at the end of a Topic or Track, there will be larger projects that students will work on. They're usually applications and can take the following format:
 - A test-driven project where students build a specific application 
 - An open assessment where students build an application within a specific category and have specific requirements that should be included.   Assessments are not test-driven. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/what-do-we-mean-by-curriculum' title='What Do We Mean By Curriculum?'>What Do We Mean By Curriculum?</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/what-do-we-mean-by-curriculum'>What Do We Mean By Curriculum</a> on Learn.co and start learning to code for free.</p>
